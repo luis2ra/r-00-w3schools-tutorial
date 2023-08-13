@@ -1,0 +1,37 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/r/r_strings_esc.asp
+
+
+R Escape Characters
+
+
+Escape Characters
+
+To insert characters that are illegal in a string, you must use an escape character.
+
+An escape character is a backslash \ followed by the character you want to insert.
+
+The escape character allows you to use double quotes when you normally would not be allowed.
+
+Example:
+
+> str <- "We are the so-called \"Vikings\", from the north."
+> str
+[1] "We are the so-called \"Vikings\", from the north."
+> cat(str)
+We are the so-called "Vikings", from the north.> 
+
+
+Note that auto-printing the str variable will print the backslash in the output. You can use 
+the cat() function to print it without backslash.
+
+
+Other escape characters in R:
+
+---------------------------------------------------------------------------------
+Code        |   Result	                                          
+---------------------------------------------------------------------------------
+\\	            Backslash
+\n	            New Line
+\r	            Carriage Return
+\t	            Tab
+\b	            Backspace
