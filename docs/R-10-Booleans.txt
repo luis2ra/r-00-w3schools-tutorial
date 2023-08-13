@@ -1,0 +1,22 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/r/r_booleans.asp
+
+
+R Booleans / Logical Values
+
+
+Booleans (Logical Values)
+
+In programming, you often need to know if an expression is true or false.
+
+You can evaluate any expression in R, and get one of two answers, TRUE or FALSE.
+
+When you compare two values, the expression is evaluated and R returns the logical answer:
+
+> 10 > 9
+[1] TRUE
+> 10 == 9
+[1] FALSE
+> 10 < 9
+[1] FALSE
+
+
