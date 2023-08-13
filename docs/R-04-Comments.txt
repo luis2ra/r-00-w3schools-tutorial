@@ -1,0 +1,18 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/r/r_comments.asp
+
+
+R Comments
+
+
+Comments
+
+Comments can be used to explain R code, and to make it more readable. It can also be used to prevent execution 
+when testing alternative code.
+
+Comments starts with a #. When executing code, R will ignore anything that starts with #.
+
+
+Multiline Comments
+
+Unlike other programming languages, such as Java, there are no syntax in R for multiline comments. However, 
+we can just insert a # for each line to create multiline comments.

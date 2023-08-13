@@ -1,0 +1,18 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/r/r_print.asp
+
+
+R Print Output
+
+
+Print
+
+Unlike many other programming languages, you can output code in R without using a print function.
+
+However, R does have a print() function available if you want to use it. This might be useful if 
+you are familiar with other programming languages, such as Python, which often uses the print() function to output code.
+
+And there are times you must use the print() function to output code, for example when working with 
+for loops (which you will learn more about in a later chapter).
+
+Conclusion: It is up to you whether you want to use the print() function to output code. However, when your code is 
+inside an R expression (e.g. inside curly braces {} like in the example above), use the print() function to output the result.

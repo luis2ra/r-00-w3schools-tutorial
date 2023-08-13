@@ -1,0 +1,17 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/r/r_get_started.asp
+
+
+R Get Started
+
+
+How to Install R
+
+To install R, go to https://cloud.r-project.org/ and download the latest version of R for Windows, Mac or Linux.
+
+
+Secuencia de comandos en Linux/Debian:
+
+$ apt search "^r-.*" | sort
+$ sudo apt update
+$ sudo apt install r-base r-base-dev
+$ R

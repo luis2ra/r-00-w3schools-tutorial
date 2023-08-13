@@ -1,0 +1,18 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/r/r_variables_concat.asp
+
+
+R Concatenate Elements
+
+
+Concatenate Elements
+
+You can also concatenate, or join, two or more elements, by using the paste() function.
+
+To combine both text and a variable, R uses comma (,):
+
+
+Example:
+
+> text <- "awesome"
+> paste("R is", text)
+[1] "R is awesome"

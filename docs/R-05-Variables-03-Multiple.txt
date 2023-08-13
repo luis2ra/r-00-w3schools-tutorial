@@ -1,0 +1,23 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/r/r_variables_multiple.asp
+
+
+R Multiple Variables
+
+
+Multiple Variables
+
+R allows you to assign the same value to multiple variables in one line.
+
+Example:
+
+> # Assign the same value to multiple variables in one line
+> var1 <- var2 <- var3 <- "Orange"
+> 
+> # Print variable values
+> var1
+[1] "Orange"
+> var2
+[1] "Orange"
+> var3
+[1] "Orange"
+>

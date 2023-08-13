@@ -1,0 +1,11 @@
+# @author: https://github.com/luis2ra from https://www.w3schools.com/r/r_syntax.asp
+
+
+R Syntax
+
+
+Syntax
+
+- To output text in R, use single or double quotes.
+- To output numbers, just type the number (without quotes).
+- To do simple calculations, add numbers together.
